@@ -1,8 +1,7 @@
 # Pekris
-Food processing
-[Pekris Edible Processing] - README
+[Pekris Edible Processing] - README file
 
-Table of Contents
+Table of Contents:
 
 Introduction
 
@@ -29,11 +28,12 @@ Contact Information
 Revision History
 1. Introduction
 
-Welcome to [Pekris Edible Processing]! This README is designed to provide an overview of our startup's key aspects and operations.
+Welcome to Pekris Edible Processing README file designed to provide an overview of our startup's key aspects and operations. Eating healthy does not need to be a expensive or hassle. Buckle up, get your taste buds up, and dive into our buffet of delicacies!
+
 
 2. Mission and Vision
 
-Our mission is to provide delicious and edible foods that are healthy and convenient to prepare. Our vision is to be the global leader in convenient foods and snacks.
+We strive to provide healthy and delicious foods that are convenient to prepare, and we aim to be the leader of healthy foods and snacks in the Canadian and Frican landscape.
 
 3. Products and Services
 
